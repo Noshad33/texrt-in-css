@@ -1,0 +1,262 @@
+/* font-family */
+
+/* body{
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h1{
+    font-family: fantasy;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} */
+
+
+
+/* Font-size */
+/* pexels Tec */
+/* p{
+    font-size: 50px;
+} */
+
+
+
+/* percentages Tec */
+/* p{
+  font-size: 300%;
+} */
+
+
+
+/* default Tec */
+/* p{
+    font-size: medium;
+} */
+
+
+
+/* Em Tec */
+/* p{
+    font-size: 5em;
+} */
+
+
+
+/* font-face */
+/* @font-face {
+    font-family:"face" ;
+    src: url(./Agbalumo-Regular.ttf);
+}
+h1{
+    font-family: face;
+} */
+
+
+
+/* font-weight */
+
+/* h1{
+    font-weight:lighter;
+} */
+
+
+/* font-style */
+/* #normal{
+    font-style:normal;
+}
+
+#italic{
+    font-style: italic;
+}
+
+#oblique{
+    font-style: oblique;
+} */
+
+
+
+/* text transform */
+
+/* capitalize */
+/* h1{
+    text-transform: capitalize;
+} */
+
+/* upercase */
+
+/* h1{
+    text-transform: uppercase;
+} */
+
+/* lower case */
+
+/* h1{
+
+    text-transform: lowercase;
+} */
+
+
+/* Text Decoration
+
+#underline{
+    text-decoration: underline;
+}
+
+#overline{
+    text-decoration: overline;
+}
+
+#line-through{
+    
+    text-decoration: line-through;
+}
+
+#blink{
+    text-decoration:blink;
+} */
+
+
+/* Line hight/ leading */
+
+/* p{
+    line-height: 30px;
+} */
+
+
+/* Letter and word spacing */
+/* word-spacing */
+/* h1{
+    word-spacing: 10px;
+} */
+
+/* Letter spacing */
+
+/* h1{
+    letter-spacing: 20px;
+} */
+
+
+/* Text alignment */
+
+/* #center{
+    text-align: center;
+}
+#right{
+    text-align: right;
+}
+#justify{
+    text-align: justify;
+} */
+
+
+/* Vertical Alingnment */
+
+/* img{
+    vertical-align: top;
+} */
+
+
+/* Text indent */
+
+/* h1{
+    text-indent: 600px;
+} */
+
+
+
+/* Text shadow */
+/* h1{
+    background-color: wheat;
+    color: brown;
+    text-shadow: 5px 5px blueviolet ;
+} */
+
+
+/* First letter Or first line */
+
+/* First Letter */
+/* h1::first-letter{
+    color: blue;
+}
+
+/* First Line */
+/* p::first-line{
+    color: blue;
+} */ 
+
+
+/* styling Links */
+
+/* a:link{
+    color: green;
+}
+
+a:visited{
+    color: blue;
+} */
+
+
+
+
+/* Responding to user */
+
+/* input.btn:hover{
+    color: blueviolet;
+}
+
+input.btn:active{
+    background-color: chartreuse;
+}
+input.btn:focus{
+    background-color: darkred;
+}
+
+input.txt:focus{
+    background-color: red;
+}
+ */
+
+
+
+ /* selector Attribute */
+
+/* existence */
+ /* h1[name]{
+    color: blue;
+ }
+
+ /* equlity */
+ /* h1[name="by"]{
+    background-color: brown;
+ } */ */
+
+ /* space */
+
+ /* h1[name~='Hi']{
+color: darkorange;
+ } */
+
+
+
+ /* prefix */
+
+ /* h1[run^="H"]{
+    color: chartreuse;
+ } */
+
+
+ /* substring */
+
+
+ /* h1[name*="ll"]{
+
+    color: red;
+ } */
+
+
+
+ /* sufix */
+
+ /* h1[testing$=""]{
+    color: red;
+ }  */
